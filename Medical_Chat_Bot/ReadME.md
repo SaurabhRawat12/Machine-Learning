@@ -1,4 +1,4 @@
-Medical Chat Bot
+#Medical Chat Bot
 The Medical Chat Bot is designed to simulate the predictions of a general physician and recommend suitable doctors based on user-entered symptoms. It utilizes decision tree algorithms for symptom analysis and doctor recommendation.
 
 Project Structure
