@@ -9,8 +9,8 @@ The project consists of the following files:
 - **Testing.csv**: Contains the testing dataset.
 - **Training.csv**: Contains the training dataset.
 - **Doctors_dataset.csv**: Contains the dataset of doctors.
-- **Healthcare_chatbot_console.py**: Python script for the console-based healthcare chatbot.
-- **Question_Diagnosis_Tkinter.py**: Python script for the Tkinter-based GUI for question diagnosis.
+- **Healthcare_chatbotConsole.py**: Python script for the console-based healthcare chatbot.
+- **Question_DiagnosisTkinter.py**: Python script for the Tkinter-based GUI for question diagnosis.
 - **new_login.py**: Main script to start the chatbot application.
 
 ## How to Run
@@ -22,4 +22,4 @@ To execute the code, follow these steps:
 3. Run the following command:
 
 ```bash
-python new_login.py
+newlogin.py
