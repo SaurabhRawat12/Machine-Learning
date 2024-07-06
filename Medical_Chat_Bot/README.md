@@ -58,14 +58,9 @@ You can install the required packages using pip:
 
 Feel free to fork this repository, create branches, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ## Acknowledgements
 
 Thanks to all contributors and those who provided datasets for testing and training.
 
 ---
 
-For any queries or issues, please open an issue in the repository or contact the project maintainer.
